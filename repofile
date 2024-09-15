@@ -1,3 +1,4 @@
 #!bin/bash 
 This is my second repo
 this is dev file
+git push origin dev
