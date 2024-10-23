@@ -1,9 +1,14 @@
-#!bin/bash 
+i#!bin/bash 
 This is my second repo
 this is dev file
 git push origin dev
+<<<<<<< HEAD
 This is first line
 This is second line
 dev with
 lots of inputs
+=======
+this is checkout branch
+This is checking again
+>>>>>>> 4043bf2d49dc5997869ef9f093c0ccdd9c81b813
 

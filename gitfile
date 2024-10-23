@@ -1,0 +1,9 @@
+echo "HEllO CONNECTING GITBASH AND VS"
+
+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 token
+
+
+https://github.com/Cohesity2022/certified-kubernetes-administrator/tree/main/Cluster%20Setup
+
+token : kubeadm join 192.168.211.213:6443 --token ckee10.exxs16ptfa4xdmmt \
+	--discovery-token-ca-cert-hash sha256:95754fab7a0d40ab9171e2b4a0f4944deec976a77814a478049c071ded90a14c
